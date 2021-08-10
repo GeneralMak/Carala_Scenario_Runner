@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<scenarios>
+    <scenario name="LaneCutIn_1" type="LaneCutIn" town="Town04">
+        <ego_vehicle x="248.547" y="-392.23" z="1.2" yaw="180" model="vehicle.nissan.patrol" />
+    </scenario>
+</scenarios>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<scenarios>
+   <scenario name="Follow_NoSignalJunctionCrossing_Vehicle_1" type="Follow_NoSignalJunctionCrossing_Vehicle" town="Town03">
+        <ego_vehicle x="-74.32" y="-50" z="0.5" yaw="270" model="vehicle.lincoln.mkz2017" />
+	<!-- spawn actors-->
+	<other_actor x="-74.3" y="-65" z="0.5" yaw="270" model="vehicle.tesla.model3" />
+	<other_actor x="-105" y="-136" z="0.5" yaw="0" model="vehicle.volkswagen.t2" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+</scenarios>
